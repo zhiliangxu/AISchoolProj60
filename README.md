@@ -189,7 +189,7 @@ AI-generated paitnings for ancient poems.
 
 弄石临溪坐，寻花绕寺行。时时闻鸟语，处处是泉声。
 
-![image](images/21_遗爱寺_bing_haiyingyang_v1.png)
+![image](images/21_遗爱寺_bing_haiyingyang_v1.jpg)
 
 
 ## 过华清宫 
@@ -198,7 +198,7 @@ AI-generated paitnings for ancient poems.
 
 长安回望绣成堆，山顶千门次第开。一骑红尘妃子笑，无人知是荔枝来。
 
-![image](images/22_过华清宫_bing_haiyingyang_v1.png)
+![image](images/22_过华清宫_bing_haiyingyang_v1.jpg)
 
 
 ## 泊秦淮 
@@ -207,7 +207,7 @@ AI-generated paitnings for ancient poems.
 
 烟笼寒水月笼沙，夜泊秦淮近酒家。商女不知亡国恨，隔江犹唱后庭花。
 
-![image](images/23_泊秦淮_bing_haiyingyang_v1.png)
+![image](images/23_泊秦淮_bing_haiyingyang_v1.jpg)
 
 
 ## 山行 
@@ -216,7 +216,7 @@ AI-generated paitnings for ancient poems.
 
 远上寒山石径斜，白云深处有人家。停车坐爱枫林晚，霜叶红于二月花。
 
-![image](images/24_山行_bing_haiyingyang_v1.png)
+![image](images/24_山行_bing_haiyingyang_v1.jpg)
 
 
 ## 清明 
@@ -225,7 +225,7 @@ AI-generated paitnings for ancient poems.
 
 清明时节雨纷纷，路上行人欲断魂。借问酒家何处有？牧童遥指杏花村。
 
-![image](images/25_清明_bing_haiyingyang_v1.png)
+![image](images/25_清明_bing_haiyingyang_v1.jpg)
 
 
 ## 秋夕 
@@ -234,7 +234,7 @@ AI-generated paitnings for ancient poems.
 
 银烛秋光冷画屏，轻罗小扇扑流萤。天阶夜色涼如水，卧看牵牛织女星。
 
-![image](images/26_秋夕_bing_haiyingyang_v1.png)
+![image](images/26_秋夕_bing_haiyingyang_v1.jpg)
 
 
 ## 相思 
@@ -243,7 +243,7 @@ AI-generated paitnings for ancient poems.
 
 红豆生南国，春来发几枝？愿君多采撷，此物最相思。
 
-![image](images/27_相思_bing_haiyingyang_v1.png)
+![image](images/27_相思_bing_haiyingyang_v1.jpg)
 
 
 ## 鸟鸣涧 
@@ -252,7 +252,7 @@ AI-generated paitnings for ancient poems.
 
 人闲桂花落，夜静春山空。月出惊山鸟，时鸣春涧中。
 
-![image](images/28_鸟鸣涧_bing_haiyingyang_v1.png)
+![image](images/28_鸟鸣涧_bing_haiyingyang_v1.jpg)
 
 
 ## 使至塞上 
@@ -261,7 +261,7 @@ AI-generated paitnings for ancient poems.
 
 单车欲问边，属国过居廷。征蓬出汉塞，归雁入胡天。大漠孤烟直，长河落日圆。萧关逢候骑，都护在燕然。
 
-![image](images/29_使至塞上_bing_haiyingyang_v1.png)
+![image](images/29_使至塞上_bing_haiyingyang_v1.jpg)
 
 
 ## 山居秋暝 
@@ -270,7 +270,7 @@ AI-generated paitnings for ancient poems.
 
 空山新雨后，天气晚来秋。明月松间照，清泉石上流。竹喧归浣女，莲动下渔舟。随意春芳歇，王孙自可留。
 
-![image](images/30_山居秋暝_bing_haiyingyang_v1.png)
+![image](images/30_山居秋暝_bing_haiyingyang_v1.jpg)
 
 
 ## 九月九日忆山东兄弟 
@@ -279,7 +279,7 @@ AI-generated paitnings for ancient poems.
 
 独在异乡为异客，每逢佳节倍思亲。遥知兄弟登高处，遍插茱萸少一人。
 
-![image](images/31_九月九日忆山东兄弟_bing_haiyingyang_v1.png)
+![image](images/31_九月九日忆山东兄弟_bing_haiyingyang_v1.jpg)
 
 
 ## 送元二使安西 
@@ -288,7 +288,7 @@ AI-generated paitnings for ancient poems.
 
 渭城朝雨浥轻尘，客舍青青柳色新。劝君更尽一杯酒，西出阳关无故人。
 
-![image](images/32_送元二使安西_bing_haiyingyang_v1.png)
+![image](images/32_送元二使安西_bing_haiyingyang_v1.jpg)
 
 
 ## 竹枝词 
@@ -297,7 +297,7 @@ AI-generated paitnings for ancient poems.
 
 杨柳青青江水平，闻郎江上唱歌声。东边日出西边雨，道是无睛却有晴。
 
-![image](images/33_竹枝词_bing_haiyingyang_v1.png)
+![image](images/33_竹枝词_bing_haiyingyang_v1.jpg)
 
 
 ## 浪淘沙・莫道谗言如浪深 
@@ -306,7 +306,7 @@ AI-generated paitnings for ancient poems.
 
 莫道谗言如浪深，莫言迁客似沙沉。千淘万漉虽辛苦，吹尽狂沙始到金。
 
-![image](images/34_浪淘沙・莫道谗言如浪深_bing_haiyingyang_v1.png)
+![image](images/34_浪淘沙・莫道谗言如浪深_bing_haiyingyang_v1.jpg)
 
 
 ## 酬乐天扬州初逢席上见赠 
@@ -315,7 +315,7 @@ AI-generated paitnings for ancient poems.
 
 巴山楚水凄凉地，二十三年弃置身。怀旧空吟闻笛赋，到乡翻似烂柯人。沉舟侧畔千帆过，病树前头万木春。今日听君歌一曲，暂凭杯酒长精神。
 
-![image](images/35_酬乐天扬州初逢席上见赠_bing_haiyingyang_v1.png)
+![image](images/35_酬乐天扬州初逢席上见赠_bing_haiyingyang_v1.jpg)
 
 
 ## 浪淘沙・九曲黄河万里沙 
@@ -324,7 +324,7 @@ AI-generated paitnings for ancient poems.
 
 九曲黄河万里沙，浪淘风簸自天涯。如今直上银河去，同到牵牛织女家。
 
-![image](images/36_浪淘沙・九曲黄河万里沙_bing_haiyingyang_v1.png)
+![image](images/36_浪淘沙・九曲黄河万里沙_bing_haiyingyang_v1.jpg)
 
 
 ## 乌衣巷 
@@ -333,7 +333,7 @@ AI-generated paitnings for ancient poems.
 
 朱雀桥边野草花，乌衣巷口夕阳斜。旧时王谢堂前燕，飞入寻常百姓家。
 
-![image](images/37_乌衣巷_bing_haiyingyang_v1.png)
+![image](images/37_乌衣巷_bing_haiyingyang_v1.jpg)
 
 
 ## 乐游原 
@@ -342,7 +342,7 @@ AI-generated paitnings for ancient poems.
 
 向晚意不适，驱车登古原。夕阳无限好，只是近黄昏。
 
-![image](images/38_乐游原_bing_haiyingyang_v1.png)
+![image](images/38_乐游原_bing_haiyingyang_v1.jpg)
 
 
 ## 无题 
@@ -351,7 +351,7 @@ AI-generated paitnings for ancient poems.
 
 相见时难别亦难，东风无力百花残。春蚕到死丝方尽，蜡炬成灰泪始干。晓镜但愁云鬓改，夜吟应觉月光寒。蓬山此去无多路，青鸟殷勤为探看。
 
-![image](images/39_无题_bing_haiyingyang_v1.png)
+![image](images/39_无题_bing_haiyingyang_v1.jpg)
 
 
 ## 清平调·其一 
@@ -360,7 +360,7 @@ AI-generated paitnings for ancient poems.
 
 云想衣裳花想容，春风拂槛露华浓。若非群玉山头见，会向瑶台月下逢。
 
-![image](images/40_清平调·其一_bing_haiyingyang_v1.png)
+![image](images/40_清平调·其一_bing_haiyingyang_v1.jpg)
 
 
 ## 从军行七首·其四 
