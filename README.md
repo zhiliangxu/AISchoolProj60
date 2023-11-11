@@ -369,7 +369,7 @@
 
 青海长云暗雪山，孤城遥望玉门关。黄沙百战穿金甲，不破楼兰终不还。
 
-![image](images/41_从军行七首·其四_bing_v1.png)
+![image](images/41_从军行七首·其四_bing_haiying.jpeg)
 
 
 ## 从军行七首 
@@ -378,7 +378,7 @@
 
 琵琶起舞换新声，总是关山旧别情。撩乱边愁听不尽，高高秋月照长城。
 
-![image](images/42_从军行七首_bing_v1.png)
+![image](images/42_从军行七首_bing_haiying.jpeg)
 
 
 ## 出塞 
@@ -387,7 +387,7 @@
 
 秦时明月汉时关，万里长征人未还。但使龙城飞将在，不教胡马度阴山！
 
-![image](images/43_出塞_bing_v1.png)
+![image](images/43_出塞_bing_haiying.jpeg)
 
 
 ## 芙蓉楼送辛渐 
@@ -396,7 +396,7 @@
 
 寒雨连江夜入吴，平明送客楚山孤。洛阳亲友如相问，一片冰心在玉壶。
 
-![image](images/44_芙蓉楼送辛渐_bing_v1.png)
+![image](images/44_芙蓉楼送辛渐_bing_haiying.jpeg)
 
 
 ## 逢雪宿芙蓉山主人 
@@ -405,7 +405,7 @@
 
 日暮苍山远，天寒白屋贫。柴门闻犬吠，风雪夜归人。
 
-![image](images/45_逢雪宿芙蓉山主人_bing_v1.png)
+![image](images/45_逢雪宿芙蓉山主人_bing_haiying.jpeg)
 
 
 ## 回乡偶书 
@@ -414,7 +414,7 @@
 
 少小离家老大回，乡音无改鬓毛衰。儿童相见不相识，笑问客从何处来。
 
-![image](images/46_回乡偶书_bing_v1.png)
+![image](images/46_回乡偶书_bing_haiying.jpeg)
 
 
 ## 咏柳 
@@ -423,7 +423,7 @@
 
 碧玉妆成一树高，万条垂下绿丝绦。不知细叶谁裁出，二月春风似剪刀。
 
-![image](images/47_咏柳_bing_v1.png)
+![image](images/47_咏柳_bing_haiying.jpeg)
 
 
 ## 春晓 
@@ -432,7 +432,7 @@
 
 春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。
 
-![image](images/48_春晓_bing_v1.png)
+![image](images/48_春晓_bing_haiying.jpeg)
 
 
 ## 江南春·千里莺啼绿映红 
@@ -441,7 +441,7 @@
 
 千里莺啼绿映红，水村山郭酒旗风。南朝四百八十寺，多少楼台烟雨中。
 
-![image](images/49_江南春·千里莺啼绿映红_bing_v1.png)
+![image](images/49_江南春·千里莺啼绿映红_bing_haiying.jpeg)
 
 
 ## 题诗后 
@@ -450,7 +450,7 @@
 
 两句三年得，一吟双泪流。知音如不赏，归卧故山秋。
 
-![image](images/50_题诗后_bing_v1.png)
+![image](images/50_题诗后_bing_haiying.jpeg)
 
 
 ## 题李凝幽居 
@@ -459,7 +459,7 @@
 
 闲居少邻并，草径入荒园。鸟宿池边树，僧敲月下门。过桥分野色，移石动云根。暂去还来此，幽期不负言。
 
-![image](images/51_题李凝幽居_bing_v1.png)
+![image](images/51_题李凝幽居_bing_haiying.jpeg)
 
 
 ## 登科后 
@@ -468,7 +468,7 @@
 
 昔日龌龊不足夸，今朝放荡思无涯。春风得意马蹄疾，一日看尽长安花。
 
-![image](images/52_登科后_bing_v1.png)
+![image](images/52_登科后_bing_haiying.jpeg)
 
 
 ## 游子吟 
@@ -477,7 +477,7 @@
 
 慈母手中线，游子身上衣。临行密密缝，意恐迟迟归。谁言寸草心，报得三春晖。
 
-![image](images/53_游子吟_bing_v1.png)
+![image](images/53_游子吟_bing_haiying.jpeg)
 
 
 ## 离思 
@@ -486,7 +486,7 @@
 
 曾经沧海难为水，除却巫山不是云。取次花丛懒回顾，半缘修道半缘君。
 
-![image](images/54_离思_bing_v1.png)
+![image](images/54_离思_bing_haiying.jpeg)
 
 
 ## 望月怀远 
@@ -495,7 +495,7 @@
 
 海上生明月，天涯共此时。情人怨遥夜，竟夕起相思。灭烛怜光满，披衣觉露滋。不堪盈手赠，还寝梦佳期。
 
-![image](images/55_望月怀远_bing_v1.png)
+![image](images/55_望月怀远_bing_haiying.jpeg)
 
 
 ## 送杜少府之任蜀州 
@@ -504,7 +504,7 @@
 
 城阙辅三秦，风烟望五津。与君离别意，同是宦游人。海内存知己，天涯若比邻。无为在歧路，儿女共沾巾。
 
-![image](images/56_送杜少府之任蜀州_bing_v1.png)
+![image](images/56_送杜少府之任蜀州_bing_haiying.jpeg)
 
 
 ## 别董大 
@@ -513,7 +513,7 @@
 
 千里黄云白日曛，北风吹雁雪纷纷。莫愁前路无知己，天下谁人不识君。
 
-![image](images/57_别董大_bing_v1.png)
+![image](images/57_别董大_bing_haiying.jpeg)
 
 
 ## 马诗 
@@ -522,7 +522,7 @@
 
 大漠沙如雪，燕山月似钩。何当金络脑，快走踏清秋。
 
-![image](images/58_马诗_bing_v1.png)
+![image](images/58_马诗_bing_haiying.jpeg)
 
 
 ## 咏鹅 
@@ -531,7 +531,7 @@
 
 鹅、鹅、鹅，曲项向天歌。白毛浮绿水，红掌拨清波。
 
-![image](images/59_咏鹅_bing_v1.png)
+![image](images/59_咏鹅_bing_haiying.jpeg)
 
 
 ## 登鹳雀楼 
@@ -540,7 +540,7 @@
 
 白日依山尽，黄河入海流。欲穷千里目，更上一层楼。
 
-![image](images/60_登鹳雀楼_bing_v1.png)
+![image](images/60_登鹳雀楼_bing_haiying.jpeg)
 
 
 ## 江雪 
