@@ -1,4 +1,4 @@
-# Artwork of Project #60
+# Artwork of Project #60 - The PoemArt
 
 **AI-generated paintings for Chinese ancient poems.**
 
