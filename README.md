@@ -1,6 +1,6 @@
 # Artwork of Project #60
 
-AI-generated paitnings for ancient poems.
+**AI-generated paintings for Chinese ancient poems.**
 
 
 ## 静夜思 
@@ -279,7 +279,7 @@ AI-generated paitnings for ancient poems.
 
 独在异乡为异客，每逢佳节倍思亲。遥知兄弟登高处，遍插茱萸少一人。
 
-![image](images/31_九月九日忆山东兄弟_bing_haiyingyang_v1.jpg)
+![image](images/31_九月九日忆山东兄弟_bing_v1.jpg)
 
 
 ## 送元二使安西 
